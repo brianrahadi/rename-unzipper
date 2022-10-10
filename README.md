@@ -1,2 +1,2 @@
 # rename_unzipper
-A script to bulk unzip and rename all students' files
+A script to rename and unzip all students' files
