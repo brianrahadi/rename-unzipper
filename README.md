@@ -1,4 +1,4 @@
-# rename_unzipper
+# rename-unzipper
 Python script to rename and unzip all students' files
 
 ![Demo](demo.gif)
