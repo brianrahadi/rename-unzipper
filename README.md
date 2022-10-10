@@ -4,7 +4,7 @@ Python script to rename and unzip all students' files
 ![Demo](demo.gif)
 
 ## Why?
-As a TA, I find opening the zip submissions of each student quite tedious. This is combined with the files that are not ordered according to the students' names. Therefore, I have developed this simple python script to do all these tasks manually. It can rename and unzip the files of 35 students in a split of a second.
+As a TA, I find opening the zip submissions of each student quite tedious. This is combined with the files that are not ordered according to the students' names. Therefore, I have developed this simple python script to do all these tasks automatically. It can rename and unzip the files of 35 students in a split of a second.
 
 ## How?
 Warning: This script only works for MacOS (or maybe other Unix based OS)
